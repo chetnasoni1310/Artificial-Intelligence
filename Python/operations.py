@@ -1,0 +1,16 @@
+print( 5 + 2 )
+print( 5 - 2 )
+print( 5 * 2 )
+print( 5 / 2 )
+print( 5 // 2 )
+print( 5 % 2 )
+print( 5 ** 2 )
+
+
+
+
+i = 2
+i = i+2
+i+=2
+i-=2
+i*=2
