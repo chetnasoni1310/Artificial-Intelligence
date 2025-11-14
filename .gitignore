@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore vscode settings
+.vscode/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+AI_Integration.txt
